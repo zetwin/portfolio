@@ -10,7 +10,7 @@ Web Developer Portfolio showcasing UX/UI Design, front-end, back-end and WordPre
 - PHP
 
 ## Live Demo
-Visit the live site at: [zetwin.github.io/zetwin-github-portfolio](https://zetwin.github.io/zetwin-github-portfolio)
+Visit the live site at: [zetwin.github.io/portfolio](https://zetwin.github.io/portfolio)
 
 ## Local Development
 Simply open `index.html` in your browser.
